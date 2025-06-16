@@ -26,7 +26,7 @@ A clean and responsive **Testimonial Slider** component built using **React JS**
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/testimonial-slider.git
+   git clone https://github.com/akashnishad95/testimonial-slider.git
    cd testimonial-slider
 Install dependencies:
 
